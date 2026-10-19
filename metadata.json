@@ -1,0 +1,6 @@
+{
+  "name": "FingerQuiz - Trắc Nghiệm Cử Chỉ Tay",
+  "description": "Game trắc nghiệm tương tác bằng cử chỉ bàn tay qua camera laptop: 1 ngón chọn A, 2 ngón chọn B, 3 ngón chọn C, 5 ngón chọn D.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
